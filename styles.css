@@ -1,0 +1,21 @@
+header{
+    border-bottom:solid 2px white;
+    padding: 20px;
+    font-size: 30px;
+    color: aqua;
+}
+
+
+
+
+body{
+    color: aliceblue;
+    background-color: black;
+    margin: 20px;
+}
+
+section{
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
